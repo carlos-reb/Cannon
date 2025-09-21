@@ -9,7 +9,7 @@ Exercises
 """
 
 from random import randrange
-from turtle import *
+from turtle import setup, hideturtle, up, tracer, onscreenclick, done, clear, goto, dot, update, ontimer
 
 from freegames import vector
 
